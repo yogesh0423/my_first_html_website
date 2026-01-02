@@ -1,0 +1,31 @@
+# Personal Website 🌐
+
+This is my **first personal website**, created as part of a learning activity to understand the basics of **HTML and CSS**.
+
+The website is a **single-page static site** that includes basic information about me, my skills, education, and a contact form.
+
+---
+
+## 📌 Features
+
+- Single-page website
+- Profile image
+- Skills list using `<ul>`
+- Education details using a table
+- Contact form
+- Clean and simple design
+- Beginner-friendly code
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5** – for structure of the website  
+- **CSS3** – for styling and layout  
+
+(No JavaScript or backend used yet)
+
+---
+
+## 📂 Project Structure
+
