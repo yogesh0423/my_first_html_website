@@ -29,3 +29,44 @@ The website is a **single-page static site** that includes basic information abo
 
 ## 📂 Project Structure
 
+personal-website/
+│── index.html
+│── images/
+│ └── profile.jpg
+│── README.md
+
+
+---
+
+## 🚀 Live Website
+
+You can view the live website here:  
+👉 https://yogesh0423.github.io/personal-website/
+
+---
+
+## 🎯 Learning Objective
+
+This project helped me learn:
+- Basic HTML tags
+- How to add images, tables, and lists
+- Simple CSS styling
+- How to upload a project to GitHub
+- How to host a website using GitHub Pages
+
+---
+
+## 📬 Contact
+
+If you want to connect with me:
+- GitHub: https://github.com/yogesh0423
+
+---
+
+## 📄 License
+
+This project is for **educational purposes** and free to use for learning.
+
+---
+
+⭐ Thank you for visiting my project!
